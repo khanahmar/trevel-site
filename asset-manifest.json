@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/khanahmar/trevel-site/static/css/main.db443733.css",
+    "main.js": "/khanahmar/trevel-site/static/js/main.c4985b58.js",
+    "static/js/787.3b90c124.chunk.js": "/khanahmar/trevel-site/static/js/787.3b90c124.chunk.js",
+    "index.html": "/khanahmar/trevel-site/index.html",
+    "main.db443733.css.map": "/khanahmar/trevel-site/static/css/main.db443733.css.map",
+    "main.c4985b58.js.map": "/khanahmar/trevel-site/static/js/main.c4985b58.js.map",
+    "787.3b90c124.chunk.js.map": "/khanahmar/trevel-site/static/js/787.3b90c124.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db443733.css",
+    "static/js/main.c4985b58.js"
+  ]
+}
